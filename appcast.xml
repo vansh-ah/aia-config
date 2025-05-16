@@ -8,9 +8,21 @@
 
     <!-- NEW RELEASE: 1.2.3 -->
     <item>
+      <title>Version 2.1.0</title>
+      <sparkle:version>2.1.0</sparkle:version>
+      <pubDate>Wed, 14 May 2025 15:55:33 IST</pubDate>
+      <enclosure
+        url="https://github.com/vansh-ah/aia-config/blob/main/AiAConnector-x86_64-1.0.0%2B1-Installer.exe"
+        sparkle:os="windows"
+        sparkle:version="2.1.0"
+sparkle:dsaSignature="MDwCHFW+SZ2PrxGkLa8Og9L3GSCDTbhYZq1L7q0z+EUCHHGCGduA2ci/1fMpIcgEqAywlndOetvcVh7VTzc="
+        length="11240175"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.5</title>
       <sparkle:version>1.2.5</sparkle:version>
-      <pubDate>Wed, 16 May 2025 10:10:10 IST</pubDate>
+      <pubDate>Wed, 14 May 2025 15:55:33 IST</pubDate>
       <enclosure
         url="https://github.com/vansh-ah/aia-config/blob/main/AiAConnector-x86_64-1.0.0%2B1-Installer.exe"
         sparkle:os="windows"
