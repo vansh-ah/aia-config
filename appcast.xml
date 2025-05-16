@@ -3,21 +3,20 @@
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>MyApp Updates</title>
-    <link>xml url</link>
+    <link>https://github.com/vansh-ah/aia-config/blob/main/appcast.xml</link>
     <description></description>
 
     <!-- NEW RELEASE: 1.2.3 -->
     <item>
       <title>Version 1.2.5</title>
       <sparkle:version>1.2.5</sparkle:version>
-      <pubDate>Wed, 14 May 2025 15:55:33 IST</pubDate>
+      <pubDate>Wed, 16 May 2025 10:10:10 IST</pubDate>
       <enclosure
-        url="url to .exe"
+        url="https://github.com/vansh-ah/aia-config/blob/main/AiAConnector-x86_64-1.0.0%2B1-Installer.exe"
         sparkle:os="windows"
-        sparkle:version="1.2.5"
-        sparkle:dsaSignature="Built auto_updater:sign_update."
-sparkle:dsaSignature="MDwCHAqCZMw5T/VwmTjuGpp8w9HdavXVu5/Iq2nKTzcCHBhyNzgBa8Y/7FK5y+zSk6oBJNRJfh2RWdUwToY"
-        length="0"
+        sparkle:version="1.2.4"
+sparkle:dsaSignature="MD4CHQCEL2stjZ3PnTWkdY3flZ5Iqoq7+DCXzmC4zh8cAh0AxRiU7qO4XB93xMFylkYiapEbTiq4sAdm68vNFA=="
+        length="11238937"
         type="application/octet-stream"/>
     </item>
     <item>
@@ -25,10 +24,9 @@ sparkle:dsaSignature="MDwCHAqCZMw5T/VwmTjuGpp8w9HdavXVu5/Iq2nKTzcCHBhyNzgBa8Y/7F
       <sparkle:version>1.2.4</sparkle:version>
       <pubDate>Wed, 14 May 2025 15:55:33 IST</pubDate>
       <enclosure
-        url="https://korefi-public-dev.s3.ap-south-1.amazonaws.com/windows-installer/AAiAConnector-x86_64-1.0.0+1-Installer.exe"
+        url="https://github.com/vansh-ah/aia-config/blob/main/AiAConnector-x86_64-1.0.0%2B1-Installer.exe"
         sparkle:os="windows"
         sparkle:version="1.2.4"
-        sparkle:dsaSignature="Built auto_updater:sign_update."
 sparkle:dsaSignature="MDwCHAqCZMw5T/VwmTjuGpp8w9HdavXVu5/Iq2nKTzcCHBhyNzgBa8Y/7FK5y+zSk6oBJNRJfh2RWdUwToY"
         length="0"
         type="application/octet-stream"/>
@@ -38,7 +36,7 @@ sparkle:dsaSignature="MDwCHAqCZMw5T/VwmTjuGpp8w9HdavXVu5/Iq2nKTzcCHBhyNzgBa8Y/7F
       <sparkle:version>1.2.3</sparkle:version>
       <pubDate>Wed, 14 May 2025 15:30:00 IST</pubDate>
       <enclosure
-        url="https://korefi-public-dev.s3.ap-south-1.amazonaws.com/windows-installer/AiAConnector.exe"
+        url="https://github.com/vansh-ah/aia-config/blob/main/AiAConnector-x86_64-1.0.0%2B1-Installer.exe"
         sparkle:os="windows"
         sparkle:version="1.2.3"
         sparkle:dsaSignature="MD0CHQCRZ0BIEdPE0BoambQNM7f4K60QxdJnoPWz6T0UAhxtK/UgmHH9cIg7fxBgqQqEeUr43RsnE+6IkX2q"
