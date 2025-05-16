@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MyApp Updates</title>
+    <link>xml url</link>
+    <description></description>
+
+    <!-- NEW RELEASE: 1.2.3 -->
+    <item>
+      <title>Version 1.2.5</title>
+      <sparkle:version>1.2.5</sparkle:version>
+      <pubDate>Wed, 14 May 2025 15:55:33 IST</pubDate>
+      <enclosure
+        url="url to .exe"
+        sparkle:os="windows"
+        sparkle:version="1.2.5"
+        sparkle:dsaSignature="Built auto_updater:sign_update."
+sparkle:dsaSignature="MDwCHAqCZMw5T/VwmTjuGpp8w9HdavXVu5/Iq2nKTzcCHBhyNzgBa8Y/7FK5y+zSk6oBJNRJfh2RWdUwToY"
+        length="0"
+        type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 1.2.4</title>
+      <sparkle:version>1.2.4</sparkle:version>
+      <pubDate>Wed, 14 May 2025 15:55:33 IST</pubDate>
+      <enclosure
+        url="https://korefi-public-dev.s3.ap-south-1.amazonaws.com/windows-installer/AAiAConnector-x86_64-1.0.0+1-Installer.exe"
+        sparkle:os="windows"
+        sparkle:version="1.2.4"
+        sparkle:dsaSignature="Built auto_updater:sign_update."
+sparkle:dsaSignature="MDwCHAqCZMw5T/VwmTjuGpp8w9HdavXVu5/Iq2nKTzcCHBhyNzgBa8Y/7FK5y+zSk6oBJNRJfh2RWdUwToY"
+        length="0"
+        type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 1.2.3</title>
+      <sparkle:version>1.2.3</sparkle:version>
+      <pubDate>Wed, 14 May 2025 15:30:00 IST</pubDate>
+      <enclosure
+        url="https://korefi-public-dev.s3.ap-south-1.amazonaws.com/windows-installer/AiAConnector.exe"
+        sparkle:os="windows"
+        sparkle:version="1.2.3"
+        sparkle:dsaSignature="MD0CHQCRZ0BIEdPE0BoambQNM7f4K60QxdJnoPWz6T0UAhxtK/UgmHH9cIg7fxBgqQqEeUr43RsnE+6IkX2q"
+        length="0"
+        type="application/octet-stream"/>
+    </item>
+
+    <!-- older items… -->
+  </channel>
+</rss>
