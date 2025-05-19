@@ -7,39 +7,15 @@
     <description></description>
 
     <item>
-      <title>Version 2.0.1</title>
-      <sparkle:version>2.0.1</sparkle:version>
+      <title>Version 0.1.1</title>
+      <sparkle:version>0.1.1</sparkle:version>
       <pubDate>Wed, 16 May 2025 08:30:00 IST</pubDate>
       <enclosure
         url="https://vansh-ah.github.io/aia-config/AiAConnector-x86_64-1.0.0%2B1-Installer.exe"
         sparkle:os="windows"
-        sparkle:version="2.0.1"
+        sparkle:version="0.1.1"
         sparkle:dsaSignature="MDwCHHIxazFh6sTwVdbOqTlsyP1M9PxFSamA8cAXNB4CHD7c5jtIpekhDaaolYmS3VIYdpmfWYe+QwUnYAk="
         length="11239589"
-        type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 1.0.1</title>
-      <sparkle:version>1.0.1</sparkle:version>
-      <pubDate>Wed, 16 May 2025 08:30:00 IST</pubDate>
-      <enclosure
-        url="https://vansh-ah.github.io/aia-config/AiAConnector-x86_64-1.0.0%2B1-Installer.exe"
-        sparkle:os="windows"
-        sparkle:version="1.2.4"
-        sparkle:dsaSignature="MDwCHHIxazFh6sTwVdbOqTlsyP1M9PxFSamA8cAXNB4CHD7c5jtIpekhDaaolYmS3VIYdpmfWYe+QwUnYAk="
-        length="11239589"
-        type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 1.0.0</title>
-      <sparkle:version>1.0.0</sparkle:version>
-      <pubDate>Wed, 16 May 2025 08:30:00 IST</pubDate>
-      <enclosure
-        url="https://vansh-ah.github.io/aia-config/AiAConnector-x86_64-1.0.0%2B1-Installer.exe"
-        sparkle:os="windows"
-        sparkle:version="1.2.3"
-        sparkle:dsaSignature="MD0CHQDYMOCgn/V3sbF3QIOrrEW7QpAxWwTDErEE/bloAhxPPg2yJA7nA3MFOXv337iMAJ0B6D1w+jV63u1q"
-        length="11241252"
         type="application/octet-stream"/>
     </item>
 
