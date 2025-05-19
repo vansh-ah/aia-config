@@ -17,6 +17,7 @@
      sparkle:installerArguments="/SILENT /VERYSILENT /NORESTART"
         sparkle:dsaSignature="MD0CHF+roL2c57HSVAo5h9KvO1yECLdhwbOsCnx6ybkCHQCed/kB/wR0YTkIsuDh6gAoa2ICRQWgITs6Cbw8"
         length="11128543"
+           sparkle:installerArguments="/SILENT /SP- /NOICONS"
         type="application/octet-stream"/>
     </item>
 
