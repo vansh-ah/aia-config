@@ -10,7 +10,7 @@
       <title>Version 0.3.24+0324</title>
       <sparkle:version>0.3.24+0324</sparkle:version>
       <pubDate>Tue, 20 May 2025 05:43:17</pubDate>
-      <enclosure url="https://vansh-ah.github.io/aia-config/AiAConnector-x86_64-0.3.24%2B0324-Installer.exe" sparkle:os="windows" sparkle:version="0.3.24+0324" length="11137792" type="application/octet-stream" sparkle:dsaSignature="MD0CHQCU0AzgQnU7MfODlHAFUYE8mruLDIcb6KvrWt4iAhwkS6r6AET6XKIqbxS+Jz52gTPW1z0crYWYQhMf"/>
+      <enclosure url="https://vansh-ah.github.io/aia-config/AiAConnector-x86_64-0.3.24%2B0324-Installer.exe" sparkle:os="windows" sparkle:version="0.3.24+0324" length="11137792" type="application/octet-stream" sparkle:dsaSignature="MD4CHQDvxShIvUR3QsLpUb6yd3fQ5x9wBrTAiXVzLKHIAh0AzqxnfT/SkzlbkxQh9LposdBFVsHwsGyhob5GTA=="/>
     </item>
   </channel>
 </rss>
