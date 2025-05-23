@@ -8,8 +8,8 @@
 <item>
       <title>Version 1.0.4+104</title>
       <sparkle:version>1.0.4+104</sparkle:version>
-      <pubDate>Fri, 23 May 2025 10:34:26</pubDate>
-      <enclosure url="https://vansh-ah.github.io/aia-config/AiAConnector-104-Installer.exe" sparkle:os="windows" sparkle:version="1.0.4+104" sparkle:dsaSignature="MD4CHQCGCKqzO6e7+3S2oSxcZHgz6VU0igrlYBrmGbhxAh0AjNqShMfKWT14bbdrdZVfR/fs7qX4jyOB8AZfJQ==" length="11728232" type="application/octet-stream"/>
-    </item>
+      <pubDate>Fri, 23 May 2025 10:40:35</pubDate>
+      <enclosure url="https://vansh-ah.github.io/aia-config/AiAConnector-104-Installer.exe" sparkle:os="windows" sparkle:version="1.0.4+104" sparkle:dsaSignature="MDwCHD1uRvoZuKf7Pln8n1vEvz6THAEiqOXLpn2Zp0ACHFUZ0JszTbK/LBXuHpkjPXKw83+fPXrgezftXXY=" length="11728064" type="application/octet-stream"/>
+    </item>  
   </channel>
 </rss>
