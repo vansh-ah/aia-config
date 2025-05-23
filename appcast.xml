@@ -5,11 +5,11 @@
     <title>AiA Connector Updates</title>
     <link>https://vansh-ah.github.io/aia-config/appcast.xml</link>
     <description>Latest versions of the AiA Connector</description>
-<item>
+     <item>
       <title>Version 1.0.4+104</title>
       <sparkle:version>1.0.4+104</sparkle:version>
-      <pubDate>Fri, 23 May 2025 10:56:53</pubDate>
-      <enclosure url="https://vansh-ah.github.io/aia-config/AiAConnector-104-Installer.exe" sparkle:os="windows" sparkle:version="1.0.4+104" sparkle:dsaSignature="MD4CHQC04+RBOtGhtA5WCUGM9Mxeawbmc9J4EM5QjF2yAh0AiZLN6aqBLotVAogaaD5orkkoGC3O1MnziIC7ow==" length="11726728" type="application/octet-stream"/>
+      <pubDate>Fri, 23 May 2025 11:48:28</pubDate>
+      <enclosure url="https://vansh-ah.github.io/aia-config/AiAConnector-104-Installer.exe" sparkle:os="windows" sparkle:version="1.0.4+104" sparkle:dsaSignature="MD4CHQDCwBnjEOaiu4Elpio2gM0guH719you9khro5aVAh0AmwaLpRtrc2bW03L9YoyNMel+Q6C3hBp8oWjyhA==" length="11729400" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
