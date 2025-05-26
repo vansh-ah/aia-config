@@ -8,8 +8,8 @@
     <item>
       <title>Version 1.0.6+106</title>
       <sparkle:version>1.0.6+106</sparkle:version>
-      <pubDate>Mon, 26 May 2025 04:30:50</pubDate>
-      <enclosure url="https://vansh-ah.github.io/aia-config/AiAConnector-106-Installer.exe" sparkle:os="windows" sparkle:version="1.0.6+106" sparkle:dsaSignature="MDwCHFqP7CFWej3gW/Jjlew3Qiil6dRxrq6smgFj6ScCHGhboDon1Zp2teR+61e7IBvfjf94Ql0fheI78V0=" length="11711232" type="application/octet-stream"/>
+      <pubDate>Mon, 26 May 2025 04:36:36</pubDate>
+      <enclosure url="https://vansh-ah.github.io/aia-config/AiAConnector-106-Installer.exe" sparkle:os="windows" sparkle:version="1.0.6+106" sparkle:dsaSignature="MD0CHQDSrzzae0Kq/Nu7Tc3hb98eTHJaXm5WciZOjE3YAhwMngDUIYSFR6V0yxEaHkOLytlA9zzl2mNtwZXG" length="11712504" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
