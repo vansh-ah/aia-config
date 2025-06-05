@@ -7,9 +7,9 @@
     <description>Latest versions of the AiA Connector</description>
            <item>
       <title>Version 3.0.3+303</title>
-      <sparkle:version>3.0.3+303</sparkle:version>
+      <sparkle:version>3.0.4+304</sparkle:version>
       <pubDate>Thu, 05 Jun 2025 03:59:35</pubDate>
-      <enclosure url="https://vansh-ah.github.io/aia-config/AIAC-Installer.exe" sparkle:os="windows" sparkle:version="3.0.3+303" sparkle:dsaSignature="MD0CHQDBSWOUoMUPB5EiK6ylvR/pgJz4608H9PHEBs7JAhwG5byxDtmhCkIGJk6l3joGgi/N8Hx6Kt5OuXY6" length="11757136" type="application/octet-stream"/>
+      <enclosure url="https://vansh-ah.github.io/aia-config/AIAC-Installer.exe" sparkle:os="windows" sparkle:version="3.0.4+304" sparkle:dsaSignature="MD0CHQDBSWOUoMUPB5EiK6ylvR/pgJz4608H9PHEBs7JAhwG5byxDtmhCkIGJk6l3joGgi/N8Hx6Kt5OuXY6" length="11757136" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
